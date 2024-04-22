@@ -31,4 +31,8 @@ if (randomNumber1 > randomNumber2) {
 }
 
 
+// Play the sound
+let playSound = document.getElementById("playSound");
+playSound.play();
+
 }
